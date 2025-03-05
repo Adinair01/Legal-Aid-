@@ -30,4 +30,5 @@ Case Documents (File Upload: PDF, DOC, Images)
 🛠️ Tech Stack
 Frontend: HTML, CSS, JavaScript 
 
+
 This project aims to simplify legal consultation booking, ensuring efficiency and accessibility for clients and lawyers. 🚀
